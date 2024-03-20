@@ -4,4 +4,3 @@ streamlit
 openai
 ipykernel
 pypdf
-tkinter
