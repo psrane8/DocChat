@@ -49,9 +49,6 @@ st.title("Doc-Chat📄")
 
 #opens the file selection window
 with st.sidebar:
-    #root = tk.Tk()
-    #root.withdraw()
-    #root.wm_attributes('-topmost', 1)
     uploaded_file=st.file_uploader(label="Please select a file ",type="pdf",accept_multiple_files=False)
           
 #verify if the api key is valid or not
