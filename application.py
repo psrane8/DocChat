@@ -1,6 +1,4 @@
 import streamlit as st
-import tkinter as tk
-from tkinter import filedialog
 import os
 from dotenv import load_dotenv
 from llama_index.core import VectorStoreIndex,SimpleDirectoryReader
