@@ -1,0 +1,6 @@
+python-dotenv
+llama-index
+streamlit
+openai
+ipykernel
+pypdf
