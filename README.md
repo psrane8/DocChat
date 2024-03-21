@@ -35,9 +35,12 @@ To run this project, follow these steps:
 
 3. Access the app through your browser at http://localhost:8501
 
-4. Enter your OpenAI api key or create one and then upload your document from the file selector
+4. Enter your OpenAI API key or create one and then upload your document from the file selector
    
 5. Follow the instructions provided in the app to chat with your document and retrieve information efficiently.
+
+## Deployment
+Doc-Chat has been deployed at https://doc-chat-app.streamlit.app/
 
 ## Credits
 
