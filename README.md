@@ -5,6 +5,11 @@
 The goal of this application is to help the user chat with their document and retrieve information more efficiently, thereby enhancing the user's productivity. To provide better data security for the uploaded documents, tempfile library is used to create a temporary directory to deal with the user documents. Being a RAG (Retrieval Augmented Generation) application, this chatbot tends to provide factual information to user queries based on the user-defined data.
 This project utilizes Llama-index, OpenAI Embeddings, Streamlit, GPT 3.5 turbo LLM, and Python.
 
+## Demo of the app
+
+https://github.com/psrane8/DocChat/assets/49234060/6d1af50c-001c-498b-bd24-5221628676e9
+
+
 ## Installation
 
 To run this project, follow these steps:
